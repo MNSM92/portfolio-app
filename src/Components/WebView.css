@@ -1,0 +1,718 @@
+
+.WebView_WebView {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.WebView_WebView .Skills {
+	position: absolute;
+	left: -26px;
+	top: 948px;
+	width: 754px;
+	height: 352px;
+	color: rgba(237,246,249,1.00);
+	font-family: Roboto;
+	font-size: 300px;
+	font-weight: 900;
+	line-height: 351.5625px;
+}
+.WebView_WebView .Work {
+	position: absolute;
+	left: 758px;
+	top: 1712px;
+	width: 703px;
+	height: 352px;
+	color: rgba(237,246,249,1.00);
+	font-family: Roboto;
+	font-size: 300px;
+	font-weight: 900;
+	line-height: 351.5625px;
+}
+.WebView_WebView .About {
+	position: absolute;
+	left: -7px;
+	top: 3046px;
+	width: 815px;
+	height: 352px;
+	color: rgba(237,246,249,1.00);
+	font-family: Roboto;
+	font-size: 300px;
+	font-weight: 900;
+	line-height: 351.5625px;
+}
+.WebView_WebView .Contact {
+	position: absolute;
+	left: 394px;
+	top: 4184px;
+	width: 1057px;
+	height: 352px;
+	color: rgba(237,246,249,1.00);
+	font-family: Roboto;
+	font-size: 300px;
+	font-weight: 900;
+	line-height: 351.5625px;
+}
+.WebView_WebView .Line1 {
+	position: absolute;
+	left: 599px;
+	top: 656px;
+	width: 881px;
+	height: 0px;
+	border: 4px solid rgba(0,109.00000110268593,119.00000050663948,1);
+}
+.WebView_WebView .Nav {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1373px;
+	height: 140px;
+	background: rgba(255,255,255,1.00);
+}
+.WebView_WebView .Nav .Contact_1 {
+	position: absolute;
+	left: 1240px;
+	top: 77px;
+	width: 127px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 42.1875px;
+}
+.WebView_WebView .Nav .Skills_1 {
+	position: absolute;
+	left: 1031px;
+	top: 77px;
+	width: 89px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 42.1875px;
+}
+.WebView_WebView .Nav .Work_1 {
+	position: absolute;
+	left: 1136px;
+	top: 77px;
+	width: 84px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 42.1875px;
+}
+.WebView_WebView .Nav .About_1 {
+	position: absolute;
+	left: 913px;
+	top: 77px;
+	width: 98px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 42.1875px;
+}
+.WebView_WebView .DevSkills {
+	position: absolute;
+	left: 1152px;
+	top: 1031px;
+	width: 221px;
+	height: 341px;
+}
+.WebView_WebView .DevSkills .CSS {
+	position: absolute;
+	left: 0px;
+	top: 62px;
+	width: 79px;
+	height: 43px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .DevSkills .JavaScript {
+	position: absolute;
+	left: 0px;
+	top: 176px;
+	width: 176px;
+	height: 49px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .DevSkills .Postgresql {
+	position: absolute;
+	left: 0px;
+	top: 236px;
+	width: 176px;
+	height: 45px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .DevSkills .RubyonRails {
+	position: absolute;
+	left: 0px;
+	top: 294px;
+	width: 221px;
+	height: 47px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .DevSkills .Git {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 58px;
+	height: 49px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .DevSkills .HTML {
+	position: absolute;
+	left: 0px;
+	top: 120px;
+	width: 115px;
+	height: 36px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .Photo {
+	position: absolute;
+	left: 863px;
+	top: 2989px;
+	width: 674px;
+	height: 764px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.WebView_WebView .CodeCastButton {
+	position: absolute;
+	left: 420px;
+	top: 1737px;
+	width: 253px;
+	height: 87px;
+	display: flex;
+	padding-top: 26px;
+	padding-right: 61px;
+	padding-bottom: 26px;
+	padding-left: 61px;
+	box-sizing: border-box;
+	background: rgba(131,197,190,1.00);
+	border-radius: 16px;
+}
+.WebView_WebView .CodeCastButton .CodeCast {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 131px;
+	height: 35px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.WebView_WebView .TutorialsButton {
+	position: absolute;
+	left: 689px;
+	top: 2836px;
+	width: 454px;
+	height: 91px;
+	display: flex;
+	padding-top: 28px;
+	padding-right: 52px;
+	padding-bottom: 28px;
+	padding-left: 52px;
+	box-sizing: border-box;
+	background: rgba(131,197,190,1.00);
+	border-radius: 16px;
+}
+.WebView_WebView .TutorialsButton .CheckOutAllMyTutorials {
+	position: relative;
+	flex: none;
+	margin-right: 29px;
+	width: 350px;
+	height: 35px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.WebView_WebView .TriviaButton {
+	position: absolute;
+	left: 75px;
+	top: 1737px;
+	width: 255px;
+	height: 88px;
+	border-radius: 16px;
+}
+.WebView_WebView .TriviaButton .Rectangle3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 255px;
+	height: 88px;
+	background: rgba(131,197,190,1.00);
+	border-radius: 16px;
+}
+.WebView_WebView .TriviaButton .TriviaGame {
+	position: absolute;
+	left: 49px;
+	top: 26px;
+	width: 159px;
+	height: 35px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.WebView_WebView .TriviaExplain {
+	position: absolute;
+	left: 178px;
+	top: 1503px;
+	width: 612px;
+	height: 254.0135498046875px;
+}
+.WebView_WebView .TriviaExplain .Arrow11 {
+	position: absolute;
+	left: 0px;
+	top: 74px;
+	width: 241.81982421875px;
+	height: 180.0135498046875px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.WebView_WebView .TriviaExplain .IcreatedthisfromscratchYoucanfindtheseriesoftutorialsonithere {
+	position: absolute;
+	left: 216px;
+	top: 0px;
+	width: 396px;
+	height: 189px;
+	color: rgba(0,0,0,1.00);
+	font-family: Permanent Marker;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 46.625px;
+}
+.WebView_WebView .CodeCastExplain {
+	position: absolute;
+	left: 178px;
+	top: 1825px;
+	width: 461px;
+	height: 293px;
+}
+.WebView_WebView .CodeCastExplain .Arrow21 {
+	position: absolute;
+	left: 196px;
+	top: 0px;
+	width: 191.1392822265625px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.WebView_WebView .CodeCastExplain .BuiltoutthedesignsmadebyourdesignerduringmyinternshipwithCodeCastonwebflow {
+	position: absolute;
+	left: 0px;
+	top: 104px;
+	width: 461px;
+	height: 189px;
+	color: rgba(0,0,0,1.00);
+	font-family: Permanent Marker;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 46.625px;
+}
+.WebView_WebView .SocialIcons {
+	position: absolute;
+	left: 918px;
+	top: 712px;
+	width: 446.9999084472656px;
+	height: 65.7864990234375px;
+}
+.WebView_WebView .SocialIcons .Vector {
+	position: absolute;
+	left: 383px;
+	top: 0px;
+	width: 14.317655828964437%;
+	height: 97.28439869888649%;
+}
+.WebView_WebView .SocialIcons .Vector_1 {
+	position: absolute;
+	left: 295px;
+	top: 1.7864990234375px;
+	width: 14.31794598496801%;
+	height: 97.28439869888649%;
+}
+.WebView_WebView .SocialIcons .Vector_2 {
+	position: absolute;
+	left: 191px;
+	top: 1px;
+	width: 17.897822485014807%;
+	height: 97.28439869888649%;
+}
+.WebView_WebView .SocialIcons .Vector_3 {
+	position: absolute;
+	left: 207.185546875px;
+	top: 20.61669921875px;
+	width: 11.122051699245725%;
+	height: 38.339753545497224%;
+}
+.WebView_WebView .SocialIcons .Vector_4 {
+	position: absolute;
+	left: 88px;
+	top: 0px;
+	width: 17.62570394406666%;
+	height: 97.28439869888649%;
+}
+.WebView_WebView .SocialIcons .Vector_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 14.322335874622022%;
+	height: 97.28439869888649%;
+}
+.WebView_WebView .embedcode1 {
+	position: absolute;
+	left: 1141px;
+	top: 959px;
+	width: 83px;
+	height: 50px;
+}
+.WebView_WebView .embedcode1 .Vector_6 {
+	position: absolute;
+	left: -0.0008029937744140625px;
+	top: -0.04400634765625px;
+	width: 100.03855142248683%;
+	height: 100.1148681640625%;
+}
+.WebView_WebView .NonDevSkills {
+	position: absolute;
+	left: 777px;
+	top: 1031px;
+	width: 566px;
+	height: 353px;
+}
+.WebView_WebView .NonDevSkills .Illustration {
+	position: absolute;
+	left: 147px;
+	top: 0px;
+	width: 259px;
+	height: 59px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .NonDevSkills .Writing {
+	position: absolute;
+	left: 203px;
+	top: 65px;
+	width: 259px;
+	height: 59px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .NonDevSkills .SocialMedia {
+	position: absolute;
+	left: 109px;
+	top: 123px;
+	width: 361px;
+	height: 59px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .NonDevSkills .ContentCreation {
+	position: absolute;
+	left: 43px;
+	top: 179px;
+	width: 447px;
+	height: 59px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .NonDevSkills .TeamManagement {
+	position: absolute;
+	left: 0px;
+	top: 239px;
+	width: 512px;
+	height: 59px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .NonDevSkills .Communication {
+	position: absolute;
+	left: 54px;
+	top: 294px;
+	width: 512px;
+	height: 59px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .manworkingonlaptop1 {
+	position: absolute;
+	left: 987px;
+	top: 954px;
+	width: 79px;
+	height: 55px;
+}
+.WebView_WebView .manworkingonlaptop1 .Group {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 99.99535476105123%;
+	height: 100%;
+}
+.WebView_WebView .manworkingonlaptop1 .Group .Vector_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.WebView_WebView .AboutMeBio {
+	position: absolute;
+	left: 68px;
+	top: 3440px;
+	width: 1132px;
+	height: 819px;
+}
+.WebView_WebView .AboutMeBio .StillIhadyettofindthecareerpaththatsparkedinterestformeInJanuaryof2020IdecidedtolookintocareersinthetechworldandendedupundergoingacodingbootcampintheSpringof2020InNovemberofthesameyearIgotmyfirstinternshipasadeveloperatCodeCastandnowworktherefulltimeasadeveloperandcontentcreatorIamalsoextremelypassionateaboutdogsandcouldtalkaboutTVandmusicforever {
+	position: absolute;
+	left: 0px;
+	top: 159px;
+	width: 1132px;
+	height: 660px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .AboutMeBio .AfterovertenyearsofworkinginretailIdecidedIneededanewcareerIhavealwaysbeencreativedoingvisualartmostofmylifeandhavingpreviouslyearnedanAssociatesDegreeofCreativeWritingatCapilanoUniversity {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 764px;
+	height: 232px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .ExEmbeddedVideo {
+	position: absolute;
+	left: 398px;
+	top: 2137px;
+	width: 952px;
+	height: 550px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.WebView_WebView .CheckOutExplain {
+	position: absolute;
+	left: 75px;
+	top: 2427px;
+	width: 600px;
+	height: 517.90185546875px;
+}
+.WebView_WebView .CheckOutExplain .Arrow51 {
+	position: absolute;
+	left: 364px;
+	top: 283.728759765625px;
+	width: 236px;
+	height: 234.173095703125px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.WebView_WebView .CheckOutExplain .AnexampleofoneofthecodingtutorialsIcreatedonCodeCast {
+	position: absolute;
+	left: 14px;
+	top: 279px;
+	width: 370px;
+	height: 209px;
+	color: rgba(0,0,0,1.00);
+	font-family: Permanent Marker;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 46.625px;
+}
+.WebView_WebView .CheckOutExplain .Arrow31 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 294.000244140625px;
+	height: 303.6064453125px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.WebView_WebView .emailsquarecolor1 {
+	position: absolute;
+	left: 75px;
+	top: 4592px;
+	width: 122.8800048828125px;
+	height: 122.8798828125px;
+}
+.WebView_WebView .emailsquarecolor1 .Vector_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.WebView_WebView .examplegmailcom {
+	position: absolute;
+	left: 224px;
+	top: 4632px;
+	width: 334px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .SocialIcons_1 {
+	position: absolute;
+	left: 929px;
+	top: 4632px;
+	width: 446.9999084472656px;
+	height: 65.78662109375px;
+}
+.WebView_WebView .SocialIcons_1 .Vector_9 {
+	position: absolute;
+	left: 383px;
+	top: 0px;
+	width: 14.317655828964437%;
+	height: 97.28421818289777%;
+}
+.WebView_WebView .SocialIcons_1 .Vector_10 {
+	position: absolute;
+	left: 295px;
+	top: 1.78662109375px;
+	width: 14.31794598496801%;
+	height: 97.28421818289777%;
+}
+.WebView_WebView .SocialIcons_1 .Vector_11 {
+	position: absolute;
+	left: 191px;
+	top: 1px;
+	width: 17.897822485014807%;
+	height: 97.28421818289777%;
+}
+.WebView_WebView .SocialIcons_1 .Vector_12 {
+	position: absolute;
+	left: 207.185546875px;
+	top: 20.61669921875px;
+	width: 11.122051699245725%;
+	height: 38.33935768308704%;
+}
+.WebView_WebView .SocialIcons_1 .Vector_13 {
+	position: absolute;
+	left: 88px;
+	top: 0px;
+	width: 17.62570394406666%;
+	height: 97.28421818289777%;
+}
+.WebView_WebView .SocialIcons_1 .Vector_14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 14.322335874622022%;
+	height: 97.28421818289777%;
+}
+.WebView_WebView .Intro {
+	position: absolute;
+	left: 98px;
+	top: -13px;
+	width: 1041px;
+	height: 585px;
+}
+.WebView_WebView .Intro .Arrow52 {
+	position: absolute;
+	left: 9px;
+	top: 0px;
+	width: 492.31500244140625px;
+	height: 530.708251953125px;
+	object-fit: cover;
+	overflow: hidden;
+	mix-blend-mode: normal;
+}
+.WebView_WebView .Intro .AnartistturnedwebdeveloperfromVancouverBCIloveworkingonthefrontendandmakingbeautifuldesignscometolife {
+	position: absolute;
+	left: 87px;
+	top: 508px;
+	width: 954px;
+	height: 77px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 36px;
+	font-weight: 300;
+	line-height: 42.1875px;
+}
+.WebView_WebView .Intro .Hello {
+	position: absolute;
+	left: 0px;
+	top: 279px;
+	width: 432px;
+	height: 159px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 96px;
+	font-weight: 300;
+	line-height: 112.5px;
+}
+.WebView_WebView .Intro .IamAmyOulton {
+	position: absolute;
+	left: 0px;
+	top: 381px;
+	width: 731px;
+	height: 113px;
+	color: rgba(0,0,0,1.00);
+	font-family: Roboto;
+	font-size: 96px;
+	font-weight: 300;
+	line-height: 112.5px;
+}
